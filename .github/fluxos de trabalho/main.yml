@@ -2,7 +2,7 @@
 nome : Gerar Dados
 
 em :
-  cronograma : # executar a cada 12 hora
+    cronograma : # executar a cada 12 hora
     - cron : " * * / 12 * * * "
   workflow_dispatch :
 
