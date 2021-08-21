@@ -10,7 +10,6 @@
   <a href="https://beacons.ai/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariateixeiraa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariateixeiraa&layout=compact&langs_count=16&theme=merko"/>
-  <img align="right" alt="Rafa-gif" src="![download20210806114411](https://user-images.githubusercontent.com/88208997/130325852-fd3d1baf-0adf-40bb-8d14-9bc1ec025a7e.png)>
 
 
 </div>
