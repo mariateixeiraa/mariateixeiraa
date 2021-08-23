@@ -2,7 +2,7 @@
 
 - 🌱  Estudando   HTML, CSS e JS.
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Gosto muito de futebol
+- ⚡ Aluna do Alura
 
  
 
