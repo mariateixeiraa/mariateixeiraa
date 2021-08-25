@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Maria Eduarda Teixeira 👋
 
 - 🌱  Estudando   HTML, CSS e JS.
-- 😄 Pronouns: ela/dela
 - ⚡ Aluna do Alura
 
  
